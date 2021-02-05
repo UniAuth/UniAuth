@@ -1,6 +1,4 @@
 # UniAuth
-- [ UPDATE ] : [@UniAtuh](https://github.com/uniauth) is now part of [@Mexili Winter of Code Program](https://github.com/mexili/winter_of_code) . Please refer [this issue](https://github.com/UniAuth/UniAuth/issues/5) for more details.
-
 
 ## TLDR
 I had a plan to create an authentication system that'd allow us to have a central data storage and could be used in other projects that we do, and guess what, the MVP is done, and if you're interested in building this onward, time to hop in.
