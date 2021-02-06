@@ -1,5 +1,9 @@
 # UniAuth
 
+View a short introduction(~100 seconds) of the project.
+
+[![UniAuth: Project Intro](http://img.youtube.com/vi/VY1m7TpiVc0/0.jpg)](http://www.youtube.com/watch?v=VY1m7TpiVc0 "UniAuth: Project Introduction")
+
 ## TLDR
 I had a plan to create an authentication system that'd allow us to have a central data storage and could be used in other projects that we do, and guess what, the MVP is done, and if you're interested in building this onward, time to hop in.
 
