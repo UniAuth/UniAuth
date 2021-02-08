@@ -1,6 +1,6 @@
 # UniAuth
 
-View a short introduction(~100 seconds) of the project.
+View a short introduction(~100 seconds) of the project or [read the wiki to dive deep](https://github.com/UniAuth/UniAuth/wiki)
 
 [![UniAuth: Project Intro](http://img.youtube.com/vi/VY1m7TpiVc0/0.jpg)](http://www.youtube.com/watch?v=VY1m7TpiVc0 "UniAuth: Project Introduction")
 
