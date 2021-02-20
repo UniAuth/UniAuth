@@ -1,0 +1,26 @@
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+# Comment to be posted to on first time issues
+
+newIssueWelcomeComment: >
+  Hello there! 👋🏻 Welcome to the project! 🚀⚡️
+  
+  Thank you and congrats 🎉 for opening your very first issue in this project. UniAuth is the Next-Generation Authentication mechanism, it is an Open Source,Secure,Private and Extendable OAuth service. 
+  Please wait while we get back to you on this issue.
+  
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+# Comment to be posted to on PRs from first time contributors in your repository
+
+newPRWelcomeComment: >
+  Hello there! 👋 Welcome to the project! 💖
+  
+  Thank you and congrats 🎉 for opening your very pull request in this project. UniAuth is the Next-Generation Authentication mechanism, it is an Open Source,Secure,Private and Extendable OAuth service. 
+  The maintainer will review the PR soon.
+  
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+# Comment to be posted to on pull requests merged by a first time user
+
+firstPRMergeComment: >
+  Congrats on merging your first Pull Request! 🎉 All the best for your amazing open source journey ahead. 🚀⚡️
+
